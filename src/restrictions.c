@@ -22,7 +22,7 @@ void write_file(GraphHead *head) {
         sprintf(_null_case, "%d-%d", qt_nodes, qt_edges);
     }
     
-    sprintf(_file_name, "../restricoes/SAT-%s.pbs", file_name == NULL ? _null_case : file_name);
+    sprintf(_file_name, "./restrictions/SAT-%s.pbs", file_name == NULL ? _null_case : file_name);
     printf("file_name: %s\n", _file_name);
 
     FILE *fp = fopen(_file_name, "w");

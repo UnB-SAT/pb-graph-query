@@ -160,7 +160,7 @@ char* write_question_file(QRestrictions *qr, GraphHead *head, char *n) {
         sprintf(_null_case, "%d-%d", qt_nodes, qt_edges);
     }
     
-    sprintf(_file_name, "./restricoes/SAT-%s.%s.pbs", file_name == NULL ? _null_case : file_name, n);
+    sprintf(_file_name, "./restrictions/SAT-%s.%s.pbs", file_name == NULL ? _null_case : file_name, n);
 
     free(_null_case);
     

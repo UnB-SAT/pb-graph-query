@@ -1,2 +1,3 @@
-gdb-sat.out
+*.out
 obj/
+.venv
