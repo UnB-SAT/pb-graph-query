@@ -2,7 +2,7 @@
 
 > Pseudo-Boolean formulation for Graph Database Queries
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](LINK_TO_PAPER)
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://journals.flvc.org/FLAIRS/article/view/141833)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
